@@ -4,7 +4,7 @@ Some history
 
 ## Ingredients
 
-- Olive Oil. The best is Greek olive oil
+- Ingredient 1
 - Ingredient 2
 
 ## Instructions
