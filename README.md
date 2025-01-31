@@ -6,3 +6,5 @@ This is a book of recipes for making delicious foods
 * [Mayonaise](mayo.md)
 
 ## Hot sauces
+
+* [Carolina Reaper](carolina_reaper.md)
