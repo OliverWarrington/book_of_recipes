@@ -5,3 +5,5 @@
 * [Mayonaise](mayo.md)
 
 ## Hot sauces
+
+* [Carolina Reaper](carolina_reaper.md)
